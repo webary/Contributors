@@ -3,9 +3,9 @@
 ##[NewBaiduer站点](http://blog.newstacksoft.com/)贡献者：
 - liujiarik(刘佳)
 
-- webary(闻波)
+- [webary(闻波)](http://www.cnblogs.com/webary/)
 
-- 刘凯宁
+- [刘凯宁](http://c2pblog.sinaapp.com/)
 
 - [daijiale(小枫)](http://www.daijiale.cn)
 
@@ -16,9 +16,9 @@
 
 - liujiarik(刘佳)
 
-- webary(闻波)
+- [webary(闻波)](http://www.cnblogs.com/webary/)
 
-- 刘凯宁
+- [刘凯宁](http://c2pblog.sinaapp.com/)
 
 - [daijiale(小枫)](http://www.daijiale.cn)
 
